@@ -1,0 +1,7 @@
+The results that were generated when running the provided code were an average wait time of 1.64 minutes and total idle time of 757 minutes.
+This idle time is far too high, so a reasonabl response would be to lessen the amount of checkers.
+However, being that it is the holiday season, the range of what the amount of items could be was increased to a maximum of 50.
+With the increased number of items, I chose to include 3 checkers.
+This combo produced an average wait time of 3.34 minutes with 274 minutes of idle time.
+If two checkers were used instead the amount of wait time would increase to 4.99 minutes, but the idle time would decrease to 96 minutes.
+I believe that it would be more beneficial to have a extra checker working to save customers almost two minutes of wait time.
